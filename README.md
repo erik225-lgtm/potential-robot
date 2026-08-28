@@ -1,2 +1,5 @@
 # potential-robot
-https://github.com/devcontainers/images/pull/1789
+
+Hello, world!
+
+This repository currently contains a minimal placeholder workflow and README.
